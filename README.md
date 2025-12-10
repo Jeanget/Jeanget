@@ -1,8 +1,6 @@
 ## Hi there 👋
 # Hi there, I'm Jean 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-christophescheider/)
-
 ## 👨‍💻 About Me
 
 I'm a data scientist specializing in predictive modeling, data analytics, and visualization, with additional expertise in backend development. I build data-driven solutions that transform complex datasets into actionable insights, combining strong analytical capabilities with technical implementation skills.
