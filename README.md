@@ -11,6 +11,7 @@ I'm a data scientist specializing in predictive modeling, data analytics, and vi
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=polars&logoColor=white)
 
 ### Data Tools & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
